@@ -4,6 +4,8 @@ This repository contains two implementations for predicting stock closing prices
 - **LSTM (Long Short-Term Memory)** Neural Network
 - **Gradient Boosting Regressor**
 
+- **The Notebook connect.ipynb contains the complete code refer this for the accuracy metrics and graphs visualization**
+
 Each model implementation has its own directory with a `main.py` script to run predictions for today’s and tomorrow’s closing prices based on historical stock data.
 
 ## Table of Contents
